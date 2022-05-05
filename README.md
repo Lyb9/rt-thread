@@ -8,6 +8,7 @@
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/RT-Thread/rt-thread?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![GitHub pull-requests](https://img.shields.io/github/issues-pr/RT-Thread/rt-thread.svg)](https://github.com/RT-Thread/rt-thread/pulls)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](https://github.com/RT-Thread/rt-thread/pulls)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FLyb9%2Frt-thread.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FLyb9%2Frt-thread?ref=badge_shield)
 
 # Introduction
 
@@ -139,6 +140,9 @@ RT-Thread is an open source software and has been licensed under Apache License 
 ```
 
 To avoid possible future license conflicts, developers need to sign a Contributor License Agreement (CLA) when submitting PR to RT-Thread.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FLyb9%2Frt-thread.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FLyb9%2Frt-thread?ref=badge_large)
 
 # Community
 
